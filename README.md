@@ -6,3 +6,5 @@ Dada una configuración específica, se debe resolver el rompecabezas deslizante
  piezas de la nada.
 
 Este problema se soluciona utilizando BFS (búsqueda por anchura) y una heurística de distancia estimada. para encontrar la solución del rompecabezas.
+
+Solución desarrollada en Python, utilizando pygame para interfaz gráfica.
